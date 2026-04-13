@@ -1,0 +1,6 @@
+*, ’::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #0A1628; color: #e2e8f0; }
+a { color: #C9A84C; text-decoration: none; }
+a:hover { text-decoration: underline; }
+input, select, textarea, button { font-family: inherit; }
+select option { background: #0d1f35; }
